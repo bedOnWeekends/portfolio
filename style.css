@@ -346,7 +346,6 @@ footer {
 }
 
 .theme-toggle:hover {
-  transform: scale(1.1);
 }
 
 /* 다크모드에서 sun/moon 아이콘 색상 자동 조정 */
